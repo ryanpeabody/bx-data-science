@@ -103,5 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# Data files
+# Data and assignment files
 *.csv
+"BX Data Assignment 2018.pdf"
