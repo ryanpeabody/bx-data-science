@@ -106,5 +106,5 @@ venv.bak/
 # Data and assignment files
 *.csv
 *.xlsx
-BX\ Data\ Assignment\ 2018.pdf
+*.pdf
 .DS_store
